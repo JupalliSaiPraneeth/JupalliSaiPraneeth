@@ -1,7 +1,7 @@
 <table>
 <tr>
 
-<td width="55%" valign="middle">
+<td width="45%" valign="middle">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=3500&pause=999999&color=58A6FF&repeat=false&width=550&height=55&lines=JUPALLI+SAI+PRANEETH"/>
 
@@ -11,7 +11,7 @@
 
 </td>
 
-<td width="45%" align="center">
+<td width="55%" align="center">
 
 <img width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
