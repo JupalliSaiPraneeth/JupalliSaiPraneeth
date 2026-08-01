@@ -14,7 +14,7 @@ Building Intelligent Applications
 
 <td width="45%">
 
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350">
+<img width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 </td>
 
