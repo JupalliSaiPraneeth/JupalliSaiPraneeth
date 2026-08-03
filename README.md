@@ -8,20 +8,7 @@
 
 <br><br>
 
-<!-- ========================================================= -->
-<!--              GITHUB CONTRIBUTION CALENDAR                 -->
-<!-- ========================================================= -->
 
-<h2 align="center">GitHub Contribution Calendar</h2>
-
-<p align="center">
-
-<img
-width="100%"
-src="https://github-contributions-api.jogruber.de/v4/JupalliSaiPraneeth?y=last&theme=github-dark&format=svg"
-alt="GitHub Contribution Calendar"/>
-
-</p>
 
 <br>
 
@@ -42,16 +29,4 @@ alt="Contribution Activity Graph"/>
 
 <br>
 
-<!-- ========================================================= -->
-<!--                 CONTRIBUTION SNAKE                        -->
-<!-- ========================================================= -->
 
-<h2 align="center">Contribution Snake</h2>
-
-<p align="center">
-
-<img
-src="https://raw.githubusercontent.com/JupalliSaiPraneeth/JupalliSaiPraneeth/output/github-contribution-grid-snake-dark.svg"
-alt="Contribution Snake"/>
-
-</p>
