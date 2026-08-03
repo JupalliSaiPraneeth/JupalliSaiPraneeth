@@ -3,7 +3,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="./gitprofile.png" alt="Jupalli Sai Praneeth" width="100%">
+  <img src="./updatedgitprofile.png" alt="Jupalli Sai Praneeth" width="100%">
 </p>
 
 <br>
