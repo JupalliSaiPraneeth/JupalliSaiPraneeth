@@ -32,10 +32,9 @@
 <p align="center">
   <img
     width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=JupalliSaiPraneeth&theme=github&hide_border=true&bg_color=ffffff&color=2F855A&line=2EA043&point=2EA043&area=true&area_color=2EA043&title_color=2EA043"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=JupalliSaiPraneeth&theme=react-dark&hide_border=true&bg_color=0D1117&color=7EE787&line=2EA043&point=7EE787&area=true&area_color=238636"
     alt="Contribution Activity Graph">
 </p>
-
 <br>
 
 <!-- ========================================================= -->
