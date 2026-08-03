@@ -3,13 +3,28 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="./updatedgitprofile.png" alt="Jupalli Sai Praneeth" width="100%">
+  <img src="./updatedgitprofile.png" width="100%" alt="Jupalli Sai Praneeth">
 </p>
 
 <br>
 
 <!-- ========================================================= -->
-<!--                 CONTRIBUTION GRAPH                        -->
+<!--              GITHUB CONTRIBUTION CALENDAR                 -->
+<!-- ========================================================= -->
+
+<h2 align="center">GitHub Contribution Calendar</h2>
+
+<p align="center">
+  <img
+    src="https://ghchart.rshah.org/2ea043/JupalliSaiPraneeth"
+    alt="GitHub Contribution Calendar"
+    width="100%">
+</p>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                 CONTRIBUTION ACTIVITY                     -->
 <!-- ========================================================= -->
 
 <h2 align="center">Contribution Activity</h2>
@@ -17,9 +32,8 @@
 <p align="center">
   <img
     width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=JupalliSaiPraneeth&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&area_color=1F6FEB"
-    alt="Contribution Graph"
-  />
+    src="https://github-readme-activity-graph.vercel.app/graph?username=JupalliSaiPraneeth&theme=github&hide_border=true&bg_color=ffffff&color=2F855A&line=2EA043&point=2EA043&area=true&area_color=2EA043&title_color=2EA043"
+    alt="Contribution Activity Graph">
 </p>
 
 <br>
@@ -31,5 +45,7 @@
 <h2 align="center">Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JupalliSaiPraneeth/JupalliSaiPraneeth/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake">
+  <img
+    src="https://raw.githubusercontent.com/JupalliSaiPraneeth/JupalliSaiPraneeth/output/github-contribution-grid-snake-dark.svg"
+    alt="Contribution Snake">
 </p>
