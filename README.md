@@ -59,12 +59,23 @@ alt="Coding Animation"/>
 
 ---
 
+<h2 align="center">Contribution Activity</h2>
+
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=JupalliSaiPraneeth&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img
+width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=JupalliSaiPraneeth&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&area_color=1F6FEB"/>
 
-<img src="https://img.shields.io/github/followers/JupalliSaiPraneeth?style=for-the-badge&logo=github"/>
+</div>
 
-<img src="https://img.shields.io/github/stars/JupalliSaiPraneeth?style=for-the-badge&logo=github"/>
+---
+
+<h2 align="center">Contribution Snake</h2>
+
+<div align="center">
+
+<img
+src="https://raw.githubusercontent.com/JupalliSaiPraneeth/JupalliSaiPraneeth/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
