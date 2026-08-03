@@ -7,6 +7,7 @@
 </p>
 
 <br>
+<br>
 
 <!-- ========================================================= -->
 <!--              GITHUB CONTRIBUTION CALENDAR                 -->
@@ -16,9 +17,9 @@
 
 <p align="center">
   <img
-    src="https://github-contributions-api.jogruber.de/v4/JupalliSaiPraneeth?y=last&format=svg&theme=github-dark"
-    width="100%"
-    alt="GitHub Contribution Calendar">
+    src="https://ghchart.rshah.org/2ea043/JupalliSaiPraneeth"
+    alt="GitHub Contribution Calendar"
+    width="100%">
 </p>
 
 <br>
