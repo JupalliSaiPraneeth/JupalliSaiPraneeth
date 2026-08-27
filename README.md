@@ -16,7 +16,8 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=JupalliSaiPraneeth"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=JupalliSaiPraneeth&bg_color=0D1117&color=FFFFFF&line=00E5FF&point=FFFFFF&area=true&hide_border=true"
+    width="100%"
     alt="Contribution Activity Graph"
   />
 </p>
