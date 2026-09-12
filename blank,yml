@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 permissions:
@@ -29,3 +29,4 @@ jobs:
         with:
           branch: output
           folder: dist
+          token: ${{ secrets.GITHUB_TOKEN }}
